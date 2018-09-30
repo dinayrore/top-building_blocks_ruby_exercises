@@ -1,5 +1,4 @@
 # # stock_picker application
-require 'pry'
 def stock_picker(prices)
 	buy_day = 0
 	sell_day = 0
